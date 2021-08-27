@@ -12,5 +12,5 @@ DongKi, Kim (Jayden)
 ![Emulator](./docs/Animation.gif)
 
 
-i'm respect Hamza !
-![Ref](https://github.com/mhmzdev/DevFolio)
+i'm respect [Hamza](https://github.com/mhmzdev/DevFolio) !
+
