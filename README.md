@@ -8,14 +8,9 @@ DongKi, Kim (Jayden)
 + Dart
 + Flutter
 
-#### Wind MAP (WindJS)
-![windmap](./docs/wind.png)
+### Emulator
+![Emulator](./docs/Animation.gif)
 
-#### 3D MAP (MapBox)
-![windmap](./docs/3d_map.png)
 
-#### CCTV in South Korea & GeoJSON area
-![windmap](./docs/cctv_map.png)
-
-#### Markers in Circles
-![windmap](./docs/center_circle.png)
+i'm respect Hamza !
+![Ref](https://github.com/mhmzdev/DevFolio)
