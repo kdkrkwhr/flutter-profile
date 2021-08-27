@@ -1,0 +1,50 @@
+name: folio
+description: Live portfolio using flutter 2.0.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_fonts: ^2.0.0
+  url_launcher: ^6.0.2
+  responsive_builder: ^0.1.2
+  carousel_slider: ^3.0.0
+  animated_text_kit: ^3.1.2
+  font_awesome_flutter: ^9.1.0
+  universal_html: ^2.0.4
+  http: ^0.13.1
+  flutter_html: any
+  url_strategy: ^0.2.0
+  provider: ^5.0.0
+  shared_preferences: ^2.0.6
+  flip_card: ^0.5.0
+
+  mailto: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/fonts/
+    - assets/services/
+    - assets/projects/
+  fonts:
+    - family: Agustina
+      fonts:
+        - asset: assets/fonts/agustina.otf
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/montserrat.ttf
